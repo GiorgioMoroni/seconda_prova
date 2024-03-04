@@ -1,1 +1,2 @@
-Ciao sono Giorgio Moroni e mi piace la programmazione
+Ciao sono Giorgio Moroni e mi piace la programmazione.
+Ho fatto delle operazioni su Git.
